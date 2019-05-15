@@ -47,7 +47,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | Week  | Topics |
 | ----- | ------ |
 | 1  | Command Line, Git, Javascript  |
-| 2  | HTML, CSS, jQuery, Responsive, Bootstrap|
+| 2  | HTML, CSS, jQuery, Responsive|
 | 3  | Project 1  |
 
 ### Unit 2 (Back End Web Development)
@@ -55,7 +55,7 @@ Curriculum schedule is subject to change at instructor's discretion.
 | Week  | Topics |
 | ----- | ------ |
 | 4  | Ruby, SQL, Git Workflow |
-| 5  | Ruby on Rails, Authentication  |
+| 5  | Ruby on Rails, Bootstrap, Authentication  |
 | 6  | Project 2 |
 
 ### Unit 3 (Front End Framework)
@@ -81,18 +81,18 @@ Curriculum schedule is subject to change at instructor's discretion.
 | 1    | 1    |      |  [Orientation](images/orientation.pdf)    |   [Command Line](https://github.com/wdi-red-coral/week_01-day_01-unix-cli)       |       |  [Simpsons HW](https://github.com/wdi-red-coral/hw-week_01-day_01-unix-cli)       |
 | 1    | 2    |      | [JS Intro](https://github.com/wdi-red-coral/week_01-day_02-javascript-intro)       |   [Git](https://github.com/wdi-red-coral/week_01-day_02-git)      |       |  [JS Intro HW](https://github.com/wdi-red-coral/hw-week_01-day_02-javascript)       |
 | 1    | 3    |  [JS Intro Warm Up](https://github.com/wdi-red-coral/warmup-week_01-day_03-javascript)    |  [JS Functions](https://github.com/wdi-red-coral/week_01-day_03-js-functions)      |         |       |    [JS Functions HW](https://github.com/wdi-red-coral/hw-week_01-day_03-js-functions)     |
-| 1    | 4    |      |        |         |       |         |
-| 1    | 5    |      |        |         |       |         |
-| 2    | 1    |      |        |         |       |         |
-| 2    | 2    |      |        |         |       |         |
-| 2    | 3    |      |        |         |       |         |
-| 2    | 4    |      |        |         |       |         |
-| 2    | 5    |      |        |         |       |         |
-| 3    | 1-5    | Project 1      | Project 1       |   Project 1      |  Project 1     |    Project 1     |
-| 4    | 1    |      |        |         |       |        |
-| 4    | 2    |      |        |         |       |         |
-| 4    | 3    |      |        |         |       |         |
-| 4    | 4    |      |        |         |       |         |
+| 1    | 4    |   [Leap of Year](https://github.com/wdi-red-coral/warmup-week_01-day_04-js-functions)  |  [JavaScript Loops](https://github.com/wdi-red-coral/week_01-day_04-js-loops)      |    [JavaScript Arrays](https://github.com/wdi-red-coral/hw-week_01-day_04-js-arrays)    |       |   [JavaScript Array HW](https://github.com/wdi-red-coral/hw-week_01-day_04-js-arrays)       |
+| 1    | 5    |    [99 bottles of coke - Loops](https://github.com/wdi-red-coral/warmup-week_01-day_05-js-loops)  |    [JavaScript Objects](https://github.com/wdi-red-coral/week_01-day_05-js-objects)    |         |       |    [JS MBTA HW](https://github.com/wdi-red-coral/hw-week_01-day_05-js-mbta)     |
+| 2    | 1    |   [MBTA HW Review](https://github.com/wdi-red-coral/warmup-mbta)   |    [HTML and CSS](https://github.com/wdi-red-coral/week_02-day_01-html-css)    |         |       |    [HTML/CSS HW](https://github.com/wdi-red-coral/hw-week_02-day_01-html-css)     |
+| 2    | 2    |    [HTML/CSS Basics](https://github.com/wdi-red-coral/warmup-week_02-day_02-html-css)  |    [CSS Positioning](https://github.com/wdi-red-coral/week_02-day_02-css-position)    |    [CSS Flexbox](https://github.com/wdi-red-coral/week_02-day_02-css-flexbox)      |      |     [Flexbox HW](https://github.com/wdi-red-coral/hw-week_02-day_02-html-css-flexbox)  |
+| 2    | 3    |  [Flexbox HW Review](https://github.com/wdi-red-coral/hw-week_02-day_02-html-css-flexbox/tree/training/starter_code)    |     [Responsive Web Design](https://github.com/wdi-red-coral/week_02-day_03-responsive-design/)   |    [Advanced JS](https://github.com/wdi-red-coral/week_02-day_03-advanced-js)    |       |   [Responsive HW](https://github.com/wdi-red-coral/hw-week_02-day_03-responsive-design)      |
+| 2    | 4    |   [Scrabble](https://github.com/wdi-red-coral/warmup-week02_day04-Scrabble)   |   [jQuery and DOM](https://github.com/wdi-red-coral/week_02-day_04-jquery-dom)     |         |       |     [Jquery-DOM HW](https://github.com/wdi-red-coral/hw-week_02-day_04-jquery-dom)    |
+| 2    | 5    |  [Game of Zones](https://github.com/wdi-red-coral/warmup-week_02-day_05-gameofzones)    |  [Advanced jQuery](https://github.com/wdi-red-coral/week_02-day_05-advanced-jquery)      |         |       | [Project 1](https://github.com/wdi-red-coral/project-1-prompt)        |
+| 3    | 1-5    | [Project 1](https://github.com/wdi-red-coral/project-1-prompt)      | [Project 1](https://github.com/wdi-red-coral/project-1-prompt)       |  [Project 1](https://github.com/wdi-red-coral/project-1-prompt)      |  [Project 1](https://github.com/wdi-red-coral/project-1-prompt)    |   [Project 1](https://github.com/wdi-red-coral/project-1-prompt)    |
+| 4    | 1    |   [Installing Ruby](https://github.com/wdi-red-coral/week_04-day_01-ruby/blob/master/install-ruby.md)   |   [Introduction to Ruby](https://github.com/wdi-red-coral/week_04-day_01-ruby)     |         |       |     [Ruby HW](https://github.com/wdi-red-coral/hw-week_04-day_01-ruby)   |
+| 4    | 2    |      |   [Ruby Loops and Methods](https://github.com/wdi-red-coral/week_04-day_02-ruby-loops-methods)     |         |       |     [Ruby Array and Hash Homework](https://github.com/wdi-red-coral/hw-week_04-day_02-ruby-loops-methods)    |
+| 4    | 3    |      |    [Ruby Objects](https://github.com/wdi-red-coral/week_04-day_03-ruby-objects)    |    [Ruby Inheritance](https://github.com/wdi-red-coral/week_04-day_03-ruby-inheritance)     |       |         |
+| 4    | 4    |      |   [SQL](https://github.com/wdi-red-coral/week_04-day_04-sql)     |    [Rails Intro](https://github.com/wdi-red-coral/week_04-day_04-rails-intro)     |       |    [Read RailsGuides](https://guides.rubyonrails.org/getting_started.html)     |
 | 4    | 5    |      |        |         |       |         |
 | 5    | 1    |      |        |         |       |         |
 | 5    | 2    |      |        |         |       |         |
